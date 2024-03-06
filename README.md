@@ -1,2 +1,3 @@
 # delta
-this is a delta reposetary
+this is a delta reposetary.
+
